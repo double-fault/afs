@@ -1,0 +1,13 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-I/usr/include/fuse3",
+      "main.c"
+    ],
+    "directory": "/home/ashish/afs/eventfd_poc",
+    "file": "/home/ashish/afs/eventfd_poc/main.c"
+  }
+]
